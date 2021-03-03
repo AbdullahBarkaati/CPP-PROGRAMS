@@ -1,0 +1,2 @@
+hellomake: priority_queue_using_max_heap.cpp
+     gcc -o hellomake priority_queue_using_max_heap.cpp
