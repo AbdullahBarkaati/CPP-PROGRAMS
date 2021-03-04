@@ -1,0 +1,3 @@
+exe : minpriorityqueue.o 
+minpriorityqueue.o : priority_queue_using_min_heap.c
+		     g++ priority_queue_using_min_heap.c -o minpriorityqueue
